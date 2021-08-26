@@ -6,7 +6,7 @@ namespace Topic.Publisher
 {
     internal class Program
     {
-        private static string _connectionString = "Endpoint=sb://lpyaia.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=rda4pc2ieQ/ucapQ8GpybN6OjeHnR673otOeELVmck8=";
+        private static string _connectionString = "";
         private static string _topicName = "topic";
         private static ServiceBusClient _client;
         private static ServiceBusSender _sender;
