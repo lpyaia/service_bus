@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ServiceBus/Queue.Consumer/bin/Debug/net5.0
+/ServiceBus/Queue.Consumer/obj
+/ServiceBus/.vs/ServiceBus/v16/.suo
+/ServiceBus/Queue.Publisher/bin/Debug/net5.0
+/ServiceBus/Queue.Publisher/obj
