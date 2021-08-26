@@ -7,3 +7,7 @@
 /ServiceBus/.vs/ServiceBus/v16/.suo
 /ServiceBus/Queue.Publisher/bin/Debug/net5.0
 /ServiceBus/Queue.Publisher/obj
+/ServiceBus/Topic.Consumer/bin/Debug/net5.0
+/ServiceBus/Topic.Consumer/obj
+/ServiceBus/Topic.Publisher/bin/Debug/net5.0
+/ServiceBus/Topic.Publisher/obj
